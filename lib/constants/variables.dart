@@ -45,7 +45,7 @@ const minUsernameLength = 8;
 const minPasswordLength = 8;
 
 // const serverUrl = 'localhost:8080';
-const serverUrl = 'caretracker-production.up.railway.app';
+const serverUrl = 'caretracker-production-b822.up.railway.app';
 
 const allScreensPaddingAll = 12.0;
 const schoolNameTextSize = 28.0;
